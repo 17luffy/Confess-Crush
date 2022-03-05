@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "8-3 vui vẻ nhé ",
     introTitle: 'Tất Cả Các Bạn Nữ ',
     introDesc: `Sắp 8/3 rồi hihi
-    đạt chúc ny tương lai hiu hiu 
+    đạt chúc ny tương lai hiu hiu. 
     8/3 thật nà zui zẻ,
     btnIntro: 'Hề Hề',
     title: 'Các bạn nữ có thích không ạ  🥰',
