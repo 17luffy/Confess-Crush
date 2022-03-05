@@ -5,7 +5,7 @@ const CONFIG = {
     đạt chúc ny tương lai hiu hiu. 
     8/3 thật nà zui zẻ,
     btnIntro: 'Hề Hề',
-    title: 'Các bạn nữ có thích không ạ  🥰',
+    title: 'Các bạn nữ có thích không ạ ! 🥰',
     desc: 'không thích cũng phải thích ',
     btnYes: 'Phải thích <33',
     btnNo: 'Không nha :3',
