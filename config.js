@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "8-3 vui vẻ nhé ",
     introTitle: 'Thảo ',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    Mà sao em cứ đi nhầm đườngkjjh
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
