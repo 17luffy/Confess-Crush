@@ -10,7 +10,7 @@ const CONFIG = {
     desc: '12 sang đón Đạt nha ',
     btnYes: 'Đón Luôn ^^',
     btnNo: 'Đéo đón :3',
-    question: 'Mình biết bạn sẽ đón mình mà <3',
+    question: 'Mình biết bạn sẽ đón mình mà^^ <3',
     btnReply: 'Cảm ơn Đạt hihi <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Bạn sẽ đón mình mà 😘😘',
