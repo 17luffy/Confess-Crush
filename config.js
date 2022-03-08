@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Chúc bạn iu 8/3 vui vẻ nha",
     introTitle: 'Linhh',
-    introDesc: `Đừng buồn nữa nha
+    introDesc: `Đừng buồn nữa nha,
     Mọi chuyện rồi sẽ ổn thôi
     Đừng nghĩ nhiều nha
     Chúc bạn iu ngày đầu làm việc thành công`,
